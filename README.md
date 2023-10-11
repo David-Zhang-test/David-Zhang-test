@@ -1,8 +1,13 @@
 ### Hi there, Welcome 👋
 I'm David John (David Zhang).
 
-I'm currently a grade one student in WHU (WuHan University), majoring in Computer Science.
+* I'm currently a grade one student in WHU (WuHan University), majoring in Computer Science.
+* I'm interested in `Computer Vision` and `AI safety`
+* I know some web frameworks such as Vue, React.
 
+
+### 🌐How to Find Me
+mail: zhangzijian2023@whu.edu.cn
 
 
 ### ⚡Some Fun Facts
