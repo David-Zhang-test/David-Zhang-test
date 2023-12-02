@@ -1,4 +1,4 @@
-# A Citizen, A Changer, An Idealist. 
+# A Citizen, A Mover, An Idealist. 
 
 ### Hi there, Welcome 👋
 I'm David John (David Zhang).
